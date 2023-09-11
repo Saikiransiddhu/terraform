@@ -20,7 +20,7 @@ resource "aws_security_group" "roboshop" {
         ipv6_cidr_blocks = ["::/0"]
        }
        tags = {
-        Name = 
+        Name = "roboshop"
        }
   
 }

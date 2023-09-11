@@ -8,11 +8,11 @@ variable "instance_names" {
 }
 
 variable "zone_id" {
-  default = "Z0308214GYCUYHGJHT8R"
+  default = "Z00508913RJHMC5M1Z8QY"
 }
 
 variable "domain" {
-  default = "joindevops.online"
+  default = "saikirandevops.cloud"
 }
 
 variable "isPROD" {
